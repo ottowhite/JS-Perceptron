@@ -109,6 +109,8 @@ function rewire(neuron, synapse, desiredOutput) {
     }
 }
 
+//HEY!!! I'm using git now
+
 
 document.writeln("Inputs" + tab + "Output" + tab + "Correct" + tab + "Bias" + tab + "Weights" + tab + tab + "Synapse values<br>");
 trainingLoop(trainingData, 10);
